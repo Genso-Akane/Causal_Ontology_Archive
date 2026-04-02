@@ -214,8 +214,15 @@ The ontology is a completed system.
 
 
 ____________________________________________________________________________________________
-********************************************************************************************
---------------------------------------------------------------------------------------------
+## License
+
+This repository is licensed under the **GNU Affero General Public License v3.0 (AGPLv3)**.
+
+Author: Genso-Akane
+
+You are free to read, study and use the ontology for personal and research purposes.  
+Any use in software, services or commercial products must comply with the terms of AGPLv3.
+____________________________________________________________________________________________
 
 
 
