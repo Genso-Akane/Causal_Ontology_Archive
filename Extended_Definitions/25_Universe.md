@@ -3,6 +3,7 @@ Node: 25
 Name: Universe
 Type: Closure of the Ontology / Complete Causal Process
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
