@@ -3,6 +3,7 @@ Node: 7, 8
 Name: System, System State
 Type: Causal Connectivity / Determinant of Change
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
