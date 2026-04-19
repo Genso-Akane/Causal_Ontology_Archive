@@ -3,6 +3,7 @@ Node: 20, 21, 22
 Name: Information, Measurement, Observer
 Type: Event Structure / Physical Interaction / Functional System
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
