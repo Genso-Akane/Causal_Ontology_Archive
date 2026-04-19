@@ -11,60 +11,85 @@ Language: English (Extended Version)
 
 ---
 
-### Causal Core: Process as a Chain of Causally Connected Events
-In the graph:
-• `2. Event` → `9. Process`. 
+### Causal Core
+
+**Process as a Chain of Causally Connected Events**
+
+In the graph:  
+`2. Event` → `9. Process` 
 
 **A process arises when:**
-• events are connected by causality,
-• subsequent events are causally determined by previous ones.
+* events are connected by causality,
+* subsequent events are causally determined by previous ones.
 
 **A process:**
-• is not an object,
-• is not a trajectory in space,
-• is not a function of time.
+* is not an object,
+* is not a trajectory in space,
+* is not a function of time.
 
-**A process is an ordered sequence of events**, possessing internal causal connectivity. Without a process, events remain isolated, dynamics is impossible, and physical description terminates.
+**A process is:**
+* an ordered sequence of events,
+* possessing internal causal connectivity.
+
+**Without a process:**
+* events remain isolated,
+* dynamics is impossible,
+* physical description terminates.
 
 **Consequence:**
-• everything physical exists only as a process,
-• stability, `6. Matter`, and `7. System` are specific regimes of processes. 
+* everything physical exists only as a process,
+* stability, `6. Matter`, `7. System` are specific regimes of processes. 
 
 ---
 
-### Projection Block: Processes in Living and Non-Living Systems
+### Projection Block
+
+**Processes in Living and Non-Living Systems**
+
 **Non-living systems:**
-• processes follow stable causal regimes,
-• regimes repeat without target-driven restructuring.
+* processes follow stable causal regimes,
+* regimes repeat without target-driven restructuring.
 
 **Living systems:**
-• processes include maintenance of their own states,
-• and control of transitions between them.
+* processes include maintenance of their own states,
+* and control of transitions between them.
 
 **Cognitive systems:**
-• processes include modification of subsequent `14. Trajectory`,
-• based on internal states of the system. 
+* processes include modification of subsequent `14. Trajectory`,
+* based on internal states of the system. 
 
-**Common property:** The difference is not in the type of physics, but in the structure of processes. A process is always determined, but can be multi-level.
+**Common property:** 
+* the difference is not in the type of physics,
+* but in the structure of processes.
+
+**Process:**
+* is always determined,
+* but can be multi-level.
 
 ---
 
-### Comparative Block: Error of Static Thinking in Physics
-Static thinking attempts to describe physics through states without processes, through objects without history, and through “moments” without causal connection.
+### Comparative Block
+
+**Error of Static Thinking in Physics**
+
+**Static thinking:**
+* attempts to describe physics through states without processes,
+* through objects without history, 
+* through “moments” without causal connection.
 
 **Consequence of the error:**
-• introduction of “time slices” without dynamics,
-• illusion of independent states,
-• loss of irreversibility.
+* introduction of “time slices” without dynamics,
+* illusion of independent states,
+* loss of irreversibility.
 
 **Physical reality:**
-• does not consist of static frames,
-• does not allow instantaneous descriptions outside processes.
+* does not consist of static frames,
+* does not allow instantaneous descriptions outside processes.
 
 **Correct description:**
-• is always process-based,
-• always causal,
-• always directed.
+* is always process-based,
+* always causal,
+* always directed.
 
 ---
 
