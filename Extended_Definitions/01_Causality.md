@@ -3,6 +3,7 @@ Node: 1
 Name: Causality
 Type: First Physical Element / Foundation
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
