@@ -3,6 +3,7 @@ Node: 3, 4
 Name: Energy, Quantum of Action
 Type: Causal Measure / Limit of Discreteness
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
