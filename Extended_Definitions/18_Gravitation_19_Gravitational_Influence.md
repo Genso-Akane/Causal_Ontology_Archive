@@ -3,6 +3,7 @@ Node: 18, 19
 Name: Gravitation, Gravitational Influence
 Type: Tempo Modification / Causal Consequence
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
