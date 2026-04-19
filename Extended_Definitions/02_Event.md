@@ -3,6 +3,7 @@ Node: 2
 Name: Event
 Type: First Physical Fact / Realization of Causality
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
