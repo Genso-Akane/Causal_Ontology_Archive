@@ -3,6 +3,7 @@ Node: 16, 17
 Name: Limiting Velocity of a Process, Causal Horizon
 Type: Causal Limit / Boundary of Influence
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
