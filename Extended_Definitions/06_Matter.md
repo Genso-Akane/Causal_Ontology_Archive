@@ -3,6 +3,7 @@ Node: 6
 Name: Matter
 Type: Stable Regime of Events
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
