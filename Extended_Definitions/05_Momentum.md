@@ -3,6 +3,7 @@ Node: 5
 Name: Momentum
 Type: Directional Realization of Energy
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
