@@ -11,87 +11,105 @@ Language: English (Extended Version)
 
 ---
 
-### Causal Core: Event as the First Physical Fact
-`2. Event` is the minimal realization of `1. Causality`. 
+### Causal Core  
+
+**Event as the First Physical Fact**  
+
+**`2. Event` is the minimal realization of `1. Causality`.**
 
 **Definition:**
-• An event occurs if and only if causality is realized as change.
+* an event occurs if and only if causality is realized as change.
 
-An event fixes:
-• the distinction “before / after”,
-• the fact of change,
-• the fact of physical existence.
+**An event fixes:**
+* the distinction “before / after”,
+* the fact of change,
+* the fact of physical existence.
 
-In the graph:
-• `1. Causality` → `2. Event`
-• Without causality, an event is impossible.
-• Everything physical exists only as an event or as a chain of events. 
+In the graph:  
+`1. Causality` → `2. Event`,  
+* without causality, an event is impossible,
+* everything physical exists only as an event or as a chain of events. 
 
-`7. System`, `6. Matter`, `9. Process`, `21. Measurement` are not primary. They are secondary with respect to `2. Event`.
+**`7. System`, `6. Matter`, `9. Process`, `21. Measurement` are not primary.**  
+**They are secondary with respect to `2. Event`.**
 
-**Consequence:**
-Event is the first physical fact of reality. Not an object, not a field, and not a state.
+**Consequence:**  
+event is the first physical fact of reality.  
+Not an object, not a field, and not a state.
 
 ---
 
 ### Irreversibility as a Marker of Reality
-An event is irreversible by definition.
+
+**An event is irreversible by definition.**
 
 **Cause:**
-• An event fixes change.
-• Change breaks the identity of the previous state.
+* an event fixes change,
+* change breaks the identity of the previous state.
 
-If “rollback” is possible without a trace:
-• The event did not occur.
-• A re-description occurred, not a physical fact.
+**If “rollback” is possible without a trace:**
+* the event did not occur,
+* a re-description occurred, not a physical fact.
 
 **Irreversibility:**
-• is not a consequence of `12. Entropy`,
-• but a direct marker of the existence of an event. 
+* is not a consequence of `12. Entropy`,
+* but a direct marker of the existence of an event. 
 
-`12. Entropy` arises later as a characteristic of processes. The event is already irreversible before entropy appears.
+**`12. Entropy` arises later as a characteristic of processes.**  
+**The event is already irreversible before entropy appears.**
 
 **Consequence:**
-• Reversible equations are descriptions.
-• Irreversibility is a property of reality.
+* reversible equations are descriptions,
+* irreversibility is a property of reality.
 
 ---
 
-### Projection Block: Events in Quantum and Classical Processes
-The division into “quantum” and “classical” does not apply to `2. Event`.
+### Projection Block  
+
+**Events in Quantum and Classical Processes**
+
+**The division into “quantum” and “classical” does not apply to `2. Event`.**
 
 **Quantum scale:**
-• Events are discrete.
-• Limited by `4. Quantum of Action`.
-• But remain events. 
+* events are discrete,
+* limited by `4. Quantum of Action`,
+* but remain events. 
 
 **Classical scale:**
-• Events are aggregated.
-• Form `9. Process`.
-• But do not lose their event nature. 
+* events are aggregated,
+* form `9. Process`,
+* but do not lose their event nature. 
 
-An event is not “collapse”, not “measurement”, and not “interaction as a term”. An event is the fact of change, independent of scale.
+**An event:**  
+* is not “collapse”,
+* is not “measurement”,
+* is not “interaction as a term”.  
+
+**An event is the fact of change, independent of scale.**
 
 ---
 
-### Comparative Block: Why “State Without Event” is a Fiction
-`8. System State` cannot change without `2. Event`. 
+### Comparative Block  
 
-If it is claimed:
-• “a state exists by itself”,
-• “a wave function evolves without an event”,
+**Why “State Without Event” is a Fiction**
 
-Then substitution occurs:
-• Physics → Mathematics.
-• Reality → Description.
+**`8. System State` cannot change without `2. Event`.** 
+
+**If it is claimed:**
+* “a state exists by itself”,
+* “a wave function evolves without an event”,
+
+then substitution occurs:
+* physics → mathematics,
+* reality → description.
 
 In the graph:
-• `2. Event` precedes `8. System State`.
-• State is a parameterization of events, not their replacement. 
+* `2. Event` precedes `8. System State`,
+* state is a parameterization of events, not their replacement. 
 
 **Consequence:**
-• “State without event” is non-physical.
-• It is a convenient abstraction, not an ontological element.
+* “state without event” is non-physical,
+* it is a convenient abstraction, not an ontological element.
 
 ---
 
