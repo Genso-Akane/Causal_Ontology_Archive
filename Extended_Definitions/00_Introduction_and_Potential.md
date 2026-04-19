@@ -3,6 +3,7 @@ Node: 0
 Name: Introduction & Potential for Change
 Type: Methodological Foundation / Logical Limit
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
