@@ -3,6 +3,7 @@ Node: 10, 11, 12
 Name: Time, Tempo of Processes, Entropy
 Type: Relation / Density / State Measure
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
