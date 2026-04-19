@@ -3,6 +3,7 @@ Node: 9
 Name: Process
 Type: Sequence of Causally Connected Events
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
