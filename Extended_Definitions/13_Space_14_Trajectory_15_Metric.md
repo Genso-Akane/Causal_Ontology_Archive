@@ -3,6 +3,7 @@ Node: 13, 14, 15
 Name: Space, Trajectory, Metric
 Type: Index / History / Computational Layer
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
