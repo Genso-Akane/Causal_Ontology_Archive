@@ -3,6 +3,7 @@ Node: 23, 24
 Name: Causal Consistency of Processes, Energy-Conditioned Modification of Dynamics
 Type: Consistency Principle / Dynamical Consequence
 Status: Canonical / Immutable
+License: GNU AGPLv3
 Language: English (Extended Version)
 ---
 
