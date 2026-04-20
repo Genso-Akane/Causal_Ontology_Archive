@@ -502,6 +502,36 @@ From this point:
 | **Biology Reductions** (Applied) | [https://github.com/Genso-Akane/Biology-Reductions] |
 
 ---
+### 🛠 Core Engine: Operational Manual / Инструкция к ядру
+
+The `core_engine.py` is the functional implementation of the 25-node Causal Graph. It translates theoretical nodes into an executable simulation of the 25. Universe.
+
+#### RU: Принцип работы
+Код реализует замкнутый цикл физического описания:
+* **Инициализация**: Создание **7. Систем** с заданными параметрами **8. Состояний** (Энергия и Темп).
+* **Гравитационное влияние (19)**: Расчет неоднородности динамики на основе разности **11. Темпа процессов**.
+* **Генерация событий (24)**: Создание новых **2. Событий**, формирующих **9. Процесс**.
+* **Измерение (21)**: Фиксация параметров и расчет роста **12. Энтропии** как индикатора необратимости.
+
+#### EN: Operating Principle
+The code implements a closed loop of physical description:
+* **Initialization**: Creating **7. Systems** with defined **8. System State** parameters (Energy & Tempo).
+* **Gravitational Influence (19)**: Calculating dynamical inhomogeneity based on **11. Tempo of Processes**.
+* **Event Generation (24)**: Creating new **2. Events** that form the **9. Process**.
+* **Measurement (21)**: State fixation and calculation of **12. Entropy** as an indicator of irreversibility.
+
+#### 🚀 Quick Start / Быстрый запуск
+```python
+# 1. Define the Universe with initial System States
+universe = Universe(systems=[System("Alpha", State(100.0, 1.0))])
+
+# 2. Initialize the Engine
+engine = UniverseEngine(universe)
+
+# 3. Execute causal steps (Transitions to Operational Use)
+engine.run(steps=100)
+```
+---
 
 ### 🆔 Citation & Identification / Цитирование
 
