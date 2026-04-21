@@ -538,9 +538,9 @@ engine.run(steps=100)
 If you use this ontology in your research or engineering projects, please cite it as follows:
 
 **APA Style:**
-`Genso & Akane. (2026). Causal Ontology Archive: Core Specification (v1.0). DOI: [PENDING]`
+Genso & Akane. (2026). v1.0.0: The Canonical Framework (Core Specification) (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19676696
 
-> **Digital Object Identifier (DOI):** > `[WILL BE ASSIGNED AFTER ZENODO ARCHIVATION]`
+> **Digital Object Identifier (DOI):** > [https://doi.org/10.5281/zenodo.19676696]
 
 ---
 
