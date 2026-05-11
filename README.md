@@ -550,3 +550,4 @@ This project is licensed under the **GNU Affero General Public License v3.0 (AGP
 See the [LICENSE](./LICENSE) file for the full text.
 
 **Note:** Any derivative work or network-based service utilizing this ontology must remain open-source under the same license.
+<img width="1672" height="941" alt="ChatGPT Image 10 мая 2026 г , 15_04_37" src="https://github.com/user-attachments/assets/ab316023-ab3e-425a-b148-f759d6979e44" />
