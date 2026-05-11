@@ -1,3 +1,6 @@
+<img width="1672" height="941" alt="ChatGPT Image 10 мая 2026 г , 15_04_37" src="https://github.com/user-attachments/assets/20ed4ed4-520b-4bed-9934-a69004833e6b" />
+
+
 # THE FUNDAMENTAL DYNAMICS OF TRAJECTORY
 
 In the Canonical Causal Graph, equations are not merely predictive tools but structural blueprints of physical reality. The dynamics of change are governed by the relationship between the capacity for action and the density of the events that realize it. To modify the path of any system is to manipulate the ratio between its energy and the tempo of the process that carries it.
@@ -886,4 +889,5 @@ The circuit allows for the precise calculation and control of systemic behavior.
 - **Causal Integrity:** The necessity of balancing energy input with process tempo to maintain a stable dynamic regime.
 
 ---
+<img width="1672" height="941" alt="ChatGPT Image 10 мая 2026 г , 15_04_37" src="https://github.com/user-attachments/assets/9a8bd54c-0874-4496-b77c-e18176c2e568" />
 
