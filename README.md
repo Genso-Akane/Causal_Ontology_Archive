@@ -500,6 +500,7 @@ From this point:
 | **Substack** (Analysis & Formulas) | [https://gensoakane.substack.com] |
 | **Physics Reductions** (Applied) | [https://github.com/Genso-Akane/Physical-Reductions] |
 | **Biology Reductions** (Applied) | [https://github.com/Genso-Akane/Biology-Reductions] |
+| **LGM_Specification** | [https://github.com/Genso-Akane/LGM_Specification] |
 
 ---
 ### 🛠 Core Engine: Operational Manual / Инструкция к ядру
@@ -540,7 +541,8 @@ If you use this ontology in your research or engineering projects, please cite i
 **APA Style:**
 Genso & Akane. (2026). v1.0.0: The Canonical Framework (Core Specification) (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19676696
 
-> **Digital Object Identifier (DOI):** > [https://doi.org/10.5281/zenodo.19676696]
+> **Digital Object Identifier (DOI):** > [https://doi.org/10.5281/zenodo.19676696]  
+> **LGM_Specification:** > [https://github.com/Genso-Akane/LGM_Specification]
 
 ---
 
