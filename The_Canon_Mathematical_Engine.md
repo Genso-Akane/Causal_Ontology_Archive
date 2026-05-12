@@ -1,5 +1,4 @@
-<img width="1672" height="941" alt="ChatGPT Image 10 мая 2026 г , 15_04_37" src="https://github.com/user-attachments/assets/20ed4ed4-520b-4bed-9934-a69004833e6b" />
-
+<img width="1536" height="1024" alt="ChatGPT Image 12 мая 2026 г , 10_41_50" src="https://github.com/user-attachments/assets/de5fa725-4052-4601-ba44-fc062d1d6e40" />
 
 # THE FUNDAMENTAL DYNAMICS OF TRAJECTORY
 
@@ -889,5 +888,19 @@ The circuit allows for the precise calculation and control of systemic behavior.
 - **Causal Integrity:** The necessity of balancing energy input with process tempo to maintain a stable dynamic regime.
 
 ---
+
+> **LGM_Specification:** > [https://github.com/Genso-Akane/LGM_Specification]  
+> **gensoakane.substack_calculation-formulas:** > [https://gensoakane.substack.com/s/calculation-formulas]
+
+---
+
+⚖️ License
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0). See the [LICENSE](./LICENSE) file for the full text.
+
+---
+<img width="1536" height="1024" alt="ChatGPT Image 12 мая 2026 г , 10_41_50" src="https://github.com/user-attachments/assets/e2fa2f4d-e8e0-4168-b721-241c0304f9f0" />
+
+---
+
 <img width="1672" height="941" alt="ChatGPT Image 10 мая 2026 г , 15_04_37" src="https://github.com/user-attachments/assets/9a8bd54c-0874-4496-b77c-e18176c2e568" />
 
