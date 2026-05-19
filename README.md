@@ -539,10 +539,10 @@ engine.run(steps=100)
 If you use this ontology in your research or engineering projects, please cite it as follows:
 
 **APA Style:**
-Genso-Akane. (2026). Genso-Akane/Causal_Ontology_Archive: v1.1.0: The Canonical Framework (Core Specification) (v1.1.0). Zenodo. [https://doi.org/10.5281/zenodo.20134582]
+Genso-Akane. (2026). Genso-Akane/Causal_Ontology_Archive: v1.1.0: The Canonical Framework (Core Specification) (v1.1.0). Zenodo. [https://doi.org/10.5281/zenodo.20134581]
 
-> **Digital Object Identifier (DOI):** > [https://doi.org/10.5281/zenodo.20134582]  
-> **LGM: The Hardware Specification of Universal Logic:** > [https://doi.org/10.5281/zenodo.20137960]  
+> **Digital Object Identifier (DOI):** > [https://doi.org/10.5281/zenodo.20134581]  
+> **LGM: The Hardware Specification of Universal Logic:** > [https://doi.org/10.5281/zenodo.20137959]  
 > **LGM_Specification:** > [https://github.com/Genso-Akane/LGM_Specification]
 
 ---
